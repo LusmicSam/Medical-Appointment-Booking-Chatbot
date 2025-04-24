@@ -21,7 +21,7 @@ app.use(cors());
 app.use(bodyParser.json());
 
 // Initialize Gemini
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY || 'AIzaSyClNvwygY7QhdVUYfuKTzC5YBW2-o3Myp8');
+const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY || 'AIzaSyAPwSZt1rXur7QzxsMsJCpH9yEAyP0-BbA');
 const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 
 // List of doctors with their specialties
