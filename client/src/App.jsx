@@ -429,7 +429,7 @@ function ChatBot() {
     setIsTyping(true);
 
     try {
-      const response = await fetch('bookinghttps://medical-appointment-booking-chatbot.onrender.com/api/doctor-appointment', {
+      const response = await fetch('https://medical-appointment-booking-chatbot.onrender.com/api/doctor-appointment', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
