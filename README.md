@@ -4,7 +4,7 @@ I'll help you create a comprehensive README.md file for your MedBook project wit
 # 🏥 MedBook - AI-Powered Healthcare Platform
 
 <div align="center">
-  <img src="https://your-banner-image-url.png" alt="MedBook Banner" width="100%">
+  <img src="https://media-hosting.imagekit.io/e2283c5e64584bb5/screenshot_1745571632126.png?Expires=1840179634&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=D~R5vUBd-OPTxv4AV1nDAnj920gqrOSc~OWzKigA0BvNiO8YLV4UXx4Ur0F2uGzGgzd9-oKv7FcEsE0thZv3NutixMZWlYLTkxkkp~SChsdLxNfr7MyTMNqeFLO-BA4ApMPjOkSBzCOQFBYYC-yYVYxyYeN8~YrLiyA6-qQh3kjvgdpgmsjEsP-ZL28jUkzudHqUuUzF0h6fcZ7TszzBzpd3Ha-eMUSuRKS8-InmBf47dKeBkHe3LHUoD7GXXjejm-DtlFdUvJKYDn5bG9ITh5txtTtkAUoXJjHKiQcIJu2ch~Q~RfswWzFN1vggbIScTS6udNGHpL4EACuT~rqEdw__" width="100%">
 </div>
 
 ## 🌟 Features
